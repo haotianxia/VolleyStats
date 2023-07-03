@@ -1,6 +1,6 @@
 # VolleyStats: A Modification of Ball Tracking in Volleyball
 
-This project is based on [Ball tracking in volleyball](https://towardsdatascience.com/ball-tracking-in-volleyball-with-opencv-and-tensorflow-3d6e857bd2e7) (Github: [tprlab/vball](https://github.com/tprlab/vball)) and is a modification/extension of it. The original project is licensed under the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0).
+This study is based on [Ball tracking in volleyball](https://towardsdatascience.com/ball-tracking-in-volleyball-with-opencv-and-tensorflow-3d6e857bd2e7) (Github: [tprlab/vball](https://github.com/tprlab/vball)) and is a modification/extension of it. The original project is licensed under the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0).
 We modified the original method for our volleyball setting path detection and classification research. 
 
 ## Requirements
