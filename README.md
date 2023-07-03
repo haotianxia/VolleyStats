@@ -32,7 +32,7 @@ We created an advanced filter based on the original method to extract ball data.
 
 ## Classifying Sets
 
-We've added a new feature that classifies sets. To use it:
+We've added new features that identify if the opposite is at the back or front row and classify sets eventually. To use it:
 
 1. In `full_version_set_classifier.py`, change the directory to the folder where you stored the ball path.
 2. Run `python3 full_version_set_classifier.py`.
