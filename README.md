@@ -1,5 +1,5 @@
 # VolleyStats
-##Please first unzip the data file in the ball-net/train folder
+Please first unzip the data file in the ball-net/train folder
 
 ## Run the ball extraction file and store the detected ball path array and picture:
 1 Please change the folder directory where you want to store the ball path and picture in blobber_with_encode.py 
