@@ -35,7 +35,8 @@ We created an advanced filter based on the original method to extract ball data.
 We've added new features that identify if the opposite is at the back or front row and classify sets eventually. To use it:
 
 1. In `full_version_set_classifier.py`, change the directory to the folder where you stored the ball path.
-2. Run `python3 full_version_set_classifier.py`.
+2. set left_net_x, right_net_x , upper_net_y, and lower_net_y values to the four corners of the volleyball net. 
+3. Run `python3 full_version_set_classifier.py`.
 
 Note: In order to successfully determine whether the opponent is in the front row or back row, it's essential to store the videos from every single rally and round. For instance, if you aim to correctly identify the setting tactic in the third rally, you need to have stored the videos from the first and second rallies along with their corresponding rounds. 
 
